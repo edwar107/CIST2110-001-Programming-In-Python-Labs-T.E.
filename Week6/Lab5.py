@@ -1,5 +1,5 @@
 # Lab4
-# Author: 
+# Author: Terrisha Edwards
 
 """_summary_
 This lab is designed to get you familiar with Python virtual environments as well as import statments to use external libraries.
